@@ -1,4 +1,4 @@
-# 💻 Code Challenge - Front End!
+# 💻 Code Challenge - Front End
 
 ## 📝Descrição
 
@@ -26,10 +26,11 @@ Assim vou poder comentar no código do PR sobre melhorias, refatorações, otimi
 - typescript (**Tudo** bem tipado)
 
 É opcional, mas pode te ajudar (use com sabedoria):
+
 - react hooks
-  - useCallback
-  - useMemo
-  - useEffect
+- useCallback
+- useMemo
+- useEffect
 - Funções pequenas e independentes
 - Evitar lógicas e declarações dentro do JSX, extraindo pra fora do JSX sempre que possível
 - Isolar tipos e interfaces do TS em arquivos separados
@@ -47,16 +48,16 @@ Assim vou poder comentar no código do PR sobre melhorias, refatorações, otimi
 
 ## ➕ Mais Informações
 
-### FRONT END:
+### FRONT END
 
 O sistema só precisa **adicionar** e **deletar** itens da lista de Todo, ter uma interface amigável, sem ser muito feia e com código organizado e separado. (ver dicas e scripts abaixo)
 Será preciso:
+
 - uma tela para exibir a lista de To-do's (á fazer), com botão de adicionar To-do que leva pra outra página
 - uma tela para adicionar o card de To-do com os campos "title" e "description"
 - uma tela para exibir o card com os campos de To-do com botão de deletar o mesmo
 
-
-### API:
+### API
 
 Você deve usar a api fake do `json-server` que já está instalada e configurada, basta rodar o comando `yarn api:server` que abrirá um servidor no endereço que está configurado no `.env`.
 Já vem com as rotas `/example` e `/todos`.
@@ -81,4 +82,4 @@ Já vem com as rotas `/example` e `/todos`.
 
 ### `yarn lint:fix`
 
-# 🚀🚀
+## 🚀🚀
